@@ -1,6 +1,6 @@
 <h1>FitAI</h1>
 <h2>AI fitness trainer that can generate a workout plan, diet plan, and many more for the user.</h2>
-
+<h2> CS50W Final Project</h2>
 
 Distinctiveness and Complexity:
 
